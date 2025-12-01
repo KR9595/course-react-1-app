@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Search from "./components/Search";
-import Spinner from "./components/spinner";
+import Spinner from "./components/Spinner";
 
 const API_BASE_URL = "https://api.themoviedb.org/3";
 
